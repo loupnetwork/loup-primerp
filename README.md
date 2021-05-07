@@ -7,7 +7,7 @@
 - 💼 &nbsp; I’m currently working on <a href="https://primerp.com.br">Group Prime</a>.
 - 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
-- ❤️ &nbsp; Meet our group at <a href="https://discord.gg/2JdWdKDNFM">Discord</a>.
+- ❤️ &nbsp; Meet our group at <a href="https://discord.gg/G5x33AAS">Discord</a>.
 
 
 
