@@ -1,13 +1,25 @@
+
+
+
 <h1> Hey there! I'm Loup. </h1>
 <h4> A development company founded by wolves in love with GTA V Multiplayer.</h4>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 💼 &nbsp; I’m currently working on <a href="https://primerp.com.br">Group Prime</a>.
-- 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
-- ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
-- ❤️ &nbsp; Meet our group at <a href="https://discord.gg/G5x33AAS">Discord</a>.
+## Olá! Seja bem vindo(a) ao meu Git!
+- 💖 &nbsp; Programar é minha Paixão!
+- 🤔 &nbsp; Explorando novas tecnologias!
+- 🙏 &nbsp; Sempre em busca do melhor !
+- 🤖 &nbsp; Buscando conhecimento aonde só ah escuridão ...
+- ✍️ &nbsp; Estou procurando colaborar na FiveM e ajudar no desenvolvimento do GTA RP.
+- 👀 &nbsp; Os invejosos sempre estarão gorando seu trabalho, cabeça erguida e deixe-os para trás!
+- 📫 &nbsp; Contacte pelo email: ocauebarretto@gmail.com
+- ❤️ &nbsp; Conheça nosso grupo no <a href="https://discord.gg/KYgfteAw">Discord</a>.
+
+<div>
+  <a href="https://github.com/loup-primerp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loup-primerp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loup-primerp&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
