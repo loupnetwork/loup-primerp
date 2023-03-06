@@ -16,4 +16,9 @@
 - ❤️ &nbsp; Conheça nosso grupo no <a href="https://discord.gg/KYgfteAw">Discord</a>.
 
 
+### Languages
+![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
+
+## Se precisar de ajuda.
+[https://discord.gg/UuftznYajU](https://discord.gg/xA9qZtAx2w)
 
