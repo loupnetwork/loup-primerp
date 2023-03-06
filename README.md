@@ -12,8 +12,8 @@
 - 🤖 &nbsp; Buscando conhecimento aonde só ah escuridão ...
 - ✍️ &nbsp; Estou procurando colaborar na FiveM e ajudar no desenvolvimento do GTA RP.
 - 👀 &nbsp; Os invejosos sempre estarão gorando seu trabalho, cabeça erguida e deixe-os para trás!
-- 📫 &nbsp; Contacte pelo email: ocauebarretto@gmail.com
-- ❤️ &nbsp; Conheça nosso grupo no <a href="https://discord.gg/KYgfteAw">Discord</a>.
+- 📫 &nbsp; Contacte pelo email: loupdsgn@gmail.com
+- ❤️ &nbsp; Conheça nosso grupo no <a href="https://discord.gg/xA9qZtAx2w">Discord</a>.
 
 
 ### Languages
